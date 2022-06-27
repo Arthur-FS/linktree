@@ -1,0 +1,14 @@
+html, body {
+    height: 100%;
+}
+
+body {
+    color: white;
+    background: rgb(82,29,45);
+    background: linear-gradient(180deg, rgba(82,29,45,1) 0%, rgba(60,6,22,1) 100%);
+}
+
+.avatar {
+    width: 200px;
+    border-radius: 100%;
+}
